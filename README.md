@@ -53,5 +53,5 @@ To start frontend application in development mode, run:
 
 ## License
 
-Copyright (c) 2018 [Matko Bulic](mailto:bulicmatko@gmail.com)  
+Copyright (c) 2018 [Matko Bulic](Senior_Dev:senior.dev1212@gmail.com)  
 Licensed under the **MIT** License
